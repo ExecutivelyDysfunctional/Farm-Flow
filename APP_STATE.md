@@ -20,6 +20,7 @@
 - Automatic CAPTCHA solving or invasive server-side request spamming (bypassing anti-cheat).
 
 ## [Files]
+- `/README.md`
 - `/app/src/main/AndroidManifest.xml`
 - `/app/src/main/java/com/example/MainActivity.kt`
 - `/app/src/main/java/com/example/data/MacroEntity.kt`
